@@ -11,7 +11,7 @@ The PKG is built through a **three-stage pipeline** that transforms raw patent d
 ## Pipeline
 
 ### 1. Patent Data Collection and Preprocessing
-- Data source: **Google Patents**-https://ggp.purplevineip.com/-
+- Data source: **Google Patents**（https://ggp.purplevineip.com/）
 - Large-scale patent metadata collection
 - Data cleaning, normalization, and deduplication
 - Extraction of structured entities:
